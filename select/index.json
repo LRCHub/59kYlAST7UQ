@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "blaze",
+  "base_artist": "Kalafina",
+  "createdAt": "2026-01-14T08:08:04.112458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blaze up the Fire (feat. Chronixx)",
+      "artist": "Major Lazer feat. Chronixx",
+      "has_synced": true,
+      "path": "select/01_Blaze_up_the_Fire_(feat._Chronixx)_Major_Lazer_feat._Chronixx.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "John Blaze",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/02_John_Blaze_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blaze of Love",
+      "artist": "Starship",
+      "has_synced": true,
+      "path": "select/03_Blaze_of_Love_Starship.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blaze of Glory",
+      "artist": "Clipse feat. Pharrell & Ab-Liva",
+      "has_synced": false,
+      "path": "select/04_Blaze_of_Glory_Clipse_feat._Pharrell_&_Ab-Liva.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "THE BLAZE (feat. SEBii)",
+      "artist": "BABii feat. SEBii",
+      "has_synced": false,
+      "path": "select/05_THE_BLAZE_(feat._SEBii)_BABii_feat._SEBii.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Blaze (feat. SEBii)",
+      "artist": "Babii",
+      "has_synced": false,
+      "path": "select/06_The_Blaze_(feat._SEBii)_Babii.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Til Death - feat. Ricky Blaze [Rock-It Scientists Remix]",
+      "artist": "Wynter Gordon",
+      "has_synced": false,
+      "path": "select/07_Til_Death_-_feat._Ricky_Blaze_[Rock-It_Scientists_Remix]_Wynter_Gordon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blaze Away",
+      "artist": "Morcheeba feat. Roots Manuva",
+      "has_synced": true,
+      "path": "select/08_Blaze_Away_Morcheeba_feat._Roots_Manuva.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blaze Away (feat. Roots Manuva)",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/09_Blaze_Away_(feat._Roots_Manuva)_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blaze It",
+      "artist": "Bone Thugs-n-Harmony",
+      "has_synced": false,
+      "path": "select/10_Blaze_It_Bone_Thugs-n-Harmony.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blaze It",
+      "artist": "Bone Thugs N Harmony",
+      "has_synced": true,
+      "path": "select/11_Blaze_It_Bone_Thugs_N_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blaze It",
+      "artist": "Bone Thugs-N-Harmony",
+      "has_synced": true,
+      "path": "select/12_Blaze_It_Bone_Thugs-N-Harmony.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Ritual (Prod. Just Blaze and Jeremiah Jae)",
+      "artist": "Captain Murphy",
+      "has_synced": true,
+      "path": "select/13_The_Ritual_(Prod._Just_Blaze_and_Jeremiah_Jae)_Captain_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blaze Of Glory",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/14_Blaze_Of_Glory_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blaze of Glory",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/15_Blaze_of_Glory_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blaze Of Glory (From Young Guns II)",
+      "artist": "Jon Bon Jovi",
+      "has_synced": true,
+      "path": "select/16_Blaze_Of_Glory_(From_Young_Guns_II)_Jon_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Blaze of Glory",
+      "artist": "Jon Bon Jovi",
+      "has_synced": true,
+      "path": "select/17_Blaze_of_Glory_Jon_Bon_Jovi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "blaze",
+      "artist": "Kalafina",
+      "has_synced": false,
+      "path": "select/pl_01_blaze_Kalafina.txt"
+    }
+  ]
+}
